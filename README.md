@@ -584,7 +584,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [UC Berkeley CS61B - Linear and Multi-Dim  (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
         - [Dynamic Arrays (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
         - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
-    - [ ] Implement a vector (mutable array with automatic resizing):
+    - [X] Implement a vector (mutable array with automatic resizing):
         - [X] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [X] New raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
@@ -628,9 +628,9 @@ if you can identify the runtime complexity of different algorithms. It's a super
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - [Pointers to Pointers](https://www.eskimo.com/~scs/cclass/int/sx8.html)
     - [ ] Implement (I did with tail pointer & without):
-        - [ ] size() - returns the number of data elements in the list
-        - [ ] empty() - bool returns true if empty
-        - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
+        - [X] size() - returns the number of data elements in the list
+        - [X] empty() - bool returns true if empty
+        - [X] value_at(index) - returns the value of the nth item (starting at 0 for first)
         - [ ] push_front(value) - adds an item to the front of the list
         - [ ] pop_front() - remove the front item and return its value
         - [ ] push_back(value) - adds an item at the end
